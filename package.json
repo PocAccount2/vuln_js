@@ -9,5 +9,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "jquery": "^3.4.0",
+    "lodash": "^4.17.11",
+    "serialize-javascript": "^2.1.1"
   }
 }
